@@ -4,7 +4,7 @@ Unveiling COVID-19 Sentiments on Twitter: Advanced Natural language processing(N
 Text-based conversations provide a challenge to sentimental identification since they lack body speech and language variations. The key goal of this project is to use the tweets on the coronavirus (COVID-19) to determine the sentiment related to the pandemic using advanced NLP technique and deep learning model RNN (Recurrent Neural Network) for classifying twitter sentiments into positive, negative, and neutral classes. The study evaluates the interpretability and practical applicability of the model in addition to metrics such as accuracy and confidence score. 
 
 ##########################Workflow##################
-1. The first phase of the project is to collect a large COVID-19 tweets dataset and the dataset is unlabelled which contains 179109 rows and 13 columns.
+1. The first phase of the project is to collect a large COVID-19 tweets dataset collected from Twitter API and the dataset is unlabelled which contains 179109 rows and 13 columns.
 2. Pre-processing work is done in the second phase to turn the raw data into data that can be used for feature extraction and modeling.
 3. Third phase is to perform NLP task for feature extraction and identify sentiments as positive and negative and neutral.
 4. Fourth step is to split the data into training, validation, and testing tests.
